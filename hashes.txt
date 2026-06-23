@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo tu mirada
+
+This log tracks the cryptographic history and versioning for the song **Bajo tu mirada** (bajo-tu-mirada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T11:53:57.671780 | `v1` | `830b39df6aba2293d63df33adf3b30c1a762407e7ae77898746ca74edd3a8aea` | `4b97eb204befb7042d3071f39b4013f71d884778dc776c4027a3d3714f6ac59a` | `2026-06-23_bajo-tu-mirada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

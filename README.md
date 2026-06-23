@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-mirada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bajo tu mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-mirada/) |
+| **Get License** | [Commercial Licensing for Bajo tu mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-mirada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `830b39df6aba2293d63df33adf3b30c1a762407e7ae77898746ca74edd3a8aea` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
